@@ -1,0 +1,120 @@
+.topcontainer{
+    background-color:#4FD3C4;
+    position: relative;
+   padding-top: 100px;
+  
+   
+}
+.h1name{
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 562%;
+    color: #488FB1;
+}
+.designation{
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    margin-top: 0px;
+    color:#488FB1;
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+}
+.middle-container{
+    background-color: #4FD3C4;
+   
+}
+.bottom-container{
+    background-color: #4FD3C4;
+   
+
+}
+
+.cloud1{
+    position: absolute;
+    right: 550px;
+    top: 50px;
+
+}
+
+.cloud2{
+    position: absolute;
+    left: 550px;
+    bottom: 300px;
+
+}
+.profilepicture{
+    padding-top: 200px;
+    width: 20em;
+}
+h2{
+    color:#488FB1;
+}
+.welcome{
+    display: inline-block;
+    width: 400px;
+    margin-top: 0%;
+    padding-bottom: 60px;
+    
+}
+.comp1{
+    width:10em;
+}
+.innerskill{
+    display: inline;
+    position: relative;
+    bottom: 150px;
+    left: 110px;
+
+}
+.skillsum{
+    width: 400px;
+    display:inline-block;
+    position: relative;
+    right: 100px;
+    bottom: 70px;
+}
+h3{
+    color: #187498;
+}
+.innerskill2{
+    display: inline;
+    position: absolute;
+    right: 880px;
+}
+.skill-row{
+    position: relative;
+
+}
+.comp2{
+    width: 10em;
+    position: relative;
+    left: 500px;
+    top : 30px;
+}
+.skillsum2{
+    
+    width: 400px;
+    display:inline-block;
+    position: relative;
+   right: 80px;
+   bottom: 0px;
+}
+p{
+    color: white;
+}
+.get,.myski{
+    padding-top: 50px;
+    
+}
+.myski{
+    padding-bottom: 40px;
+}
+.touch{
+    padding-bottom: 50px;
+}
